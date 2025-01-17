@@ -1,0 +1,872 @@
+[
+    {
+        "image": "image_1.png",
+        "annotations": [
+            {
+                "character": "L",
+                "bbox": [
+                    10,
+                    18,
+                    32,
+                    47
+                ],
+                "category_id": 0
+            },
+            {
+                "character": "l",
+                "bbox": [
+                    37,
+                    18,
+                    46,
+                    47
+                ],
+                "category_id": 1
+            },
+            {
+                "character": "T",
+                "bbox": [
+                    51,
+                    18,
+                    75,
+                    47
+                ],
+                "category_id": 2
+            },
+            {
+                "character": "Q",
+                "bbox": [
+                    80,
+                    18,
+                    111,
+                    49
+                ],
+                "category_id": 3
+            },
+            {
+                "character": "^",
+                "bbox": [
+                    116,
+                    9.6,
+                    123,
+                    18.6
+                ],
+                "category_id": 4
+            },
+            {
+                "character": "5",
+                "bbox": [
+                    128,
+                    18,
+                    150,
+                    47
+                ],
+                "category_id": 5
+            },
+            {
+                "character": "h",
+                "bbox": [
+                    155,
+                    9.6,
+                    162,
+                    18.6
+                ],
+                "category_id": 6
+            },
+            {
+                "character": "^",
+                "bbox": [
+                    167,
+                    9.6,
+                    174,
+                    18.6
+                ],
+                "category_id": 7
+            },
+            {
+                "character": "6",
+                "bbox": [
+                    179,
+                    26,
+                    199,
+                    47
+                ],
+                "category_id": 8
+            },
+            {
+                "character": "^",
+                "bbox": [
+                    204,
+                    18,
+                    231,
+                    47
+                ],
+                "category_id": 9
+            }
+        ]
+    },
+    {
+        "image": "image_2.png",
+        "annotations": [
+            {
+                "character": "y",
+                "bbox": [
+                    10,
+                    26,
+                    30,
+                    55
+                ],
+                "category_id": 0
+            },
+            {
+                "character": "^",
+                "bbox": [
+                    35,
+                    9.6,
+                    42,
+                    18.6
+                ],
+                "category_id": 1
+            },
+            {
+                "character": "9",
+                "bbox": [
+                    47,
+                    18,
+                    69,
+                    47
+                ],
+                "category_id": 2
+            },
+            {
+                "character": "7",
+                "bbox": [
+                    74,
+                    26,
+                    94,
+                    47
+                ],
+                "category_id": 3
+            },
+            {
+                "character": "s",
+                "bbox": [
+                    99,
+                    18,
+                    123,
+                    47
+                ],
+                "category_id": 4
+            },
+            {
+                "character": "Z",
+                "bbox": [
+                    128,
+                    36.0,
+                    135,
+                    45.0
+                ],
+                "category_id": 5
+            },
+            {
+                "character": "_",
+                "bbox": [
+                    140,
+                    18,
+                    167,
+                    47
+                ],
+                "category_id": 6
+            },
+            {
+                "character": "2",
+                "bbox": [
+                    172,
+                    9.6,
+                    179,
+                    18.6
+                ],
+                "category_id": 7
+            },
+            {
+                "character": "Y",
+                "bbox": [
+                    184,
+                    18,
+                    222,
+                    47
+                ],
+                "category_id": 8
+            }
+        ]
+    },
+    {
+        "image": "image_3.png",
+        "annotations": [
+            {
+                "character": "J",
+                "bbox": [
+                    10,
+                    18,
+                    30,
+                    47
+                ],
+                "category_id": 0
+            },
+            {
+                "character": "Y",
+                "bbox": [
+                    35,
+                    18,
+                    62,
+                    47
+                ],
+                "category_id": 1
+            },
+            {
+                "character": "_",
+                "bbox": [
+                    67,
+                    36.0,
+                    74,
+                    45.0
+                ],
+                "category_id": 2
+            },
+            {
+                "character": "9",
+                "bbox": [
+                    79,
+                    18,
+                    117,
+                    47
+                ],
+                "category_id": 3
+            },
+            {
+                "character": "W",
+                "bbox": [
+                    122,
+                    18,
+                    142,
+                    47
+                ],
+                "category_id": 4
+            },
+            {
+                "character": "k",
+                "bbox": [
+                    147,
+                    26,
+                    169,
+                    47
+                ],
+                "category_id": 5
+            },
+            {
+                "character": "e",
+                "bbox": [
+                    174,
+                    18,
+                    203,
+                    47
+                ],
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "image": "image_4.png",
+        "annotations": [
+            {
+                "character": "c",
+                "bbox": [
+                    10,
+                    26,
+                    30,
+                    47
+                ],
+                "category_id": 0
+            },
+            {
+                "character": "D",
+                "bbox": [
+                    35,
+                    18,
+                    64,
+                    47
+                ],
+                "category_id": 1
+            },
+            {
+                "character": "e",
+                "bbox": [
+                    69,
+                    26,
+                    91,
+                    47
+                ],
+                "category_id": 2
+            },
+            {
+                "character": "^",
+                "bbox": [
+                    96,
+                    9.6,
+                    103,
+                    18.6
+                ],
+                "category_id": 3
+            },
+            {
+                "character": "7",
+                "bbox": [
+                    108,
+                    9.6,
+                    115,
+                    18.6
+                ],
+                "category_id": 4
+            },
+            {
+                "character": "^",
+                "bbox": [
+                    118,
+                    18,
+                    129,
+                    55
+                ],
+                "category_id": 5
+            },
+            {
+                "character": "3",
+                "bbox": [
+                    136,
+                    26,
+                    158,
+                    47
+                ],
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "image": "image_5.png",
+        "annotations": [
+            {
+                "character": "n",
+                "bbox": [
+                    10,
+                    26,
+                    32,
+                    47
+                ],
+                "category_id": 0
+            },
+            {
+                "character": "h",
+                "bbox": [
+                    37,
+                    18,
+                    59,
+                    47
+                ],
+                "category_id": 1
+            },
+            {
+                "character": "S",
+                "bbox": [
+                    64,
+                    18,
+                    91,
+                    47
+                ],
+                "category_id": 2
+            },
+            {
+                "character": "j",
+                "bbox": [
+                    94,
+                    18,
+                    105,
+                    55
+                ],
+                "category_id": 3
+            },
+            {
+                "character": "6",
+                "bbox": [
+                    112,
+                    18,
+                    134,
+                    47
+                ],
+                "category_id": 4
+            },
+            {
+                "character": "L",
+                "bbox": [
+                    139,
+                    18,
+                    161,
+                    47
+                ],
+                "category_id": 5
+            }
+        ]
+    },
+    {
+        "image": "image_6.png",
+        "annotations": [
+            {
+                "character": "f",
+                "bbox": [
+                    10,
+                    18,
+                    23,
+                    47
+                ],
+                "category_id": 0
+            },
+            {
+                "character": "Y",
+                "bbox": [
+                    28,
+                    18,
+                    55,
+                    47
+                ],
+                "category_id": 1
+            },
+            {
+                "character": "H",
+                "bbox": [
+                    60,
+                    18,
+                    89,
+                    47
+                ],
+                "category_id": 2
+            },
+            {
+                "character": "c",
+                "bbox": [
+                    94,
+                    26,
+                    114,
+                    47
+                ],
+                "category_id": 3
+            },
+            {
+                "character": "y",
+                "bbox": [
+                    119,
+                    26,
+                    139,
+                    55
+                ],
+                "category_id": 4
+            },
+            {
+                "character": "0",
+                "bbox": [
+                    144,
+                    18,
+                    166,
+                    47
+                ],
+                "category_id": 5
+            }
+        ]
+    },
+    {
+        "image": "image_7.png",
+        "annotations": [
+            {
+                "character": "0",
+                "bbox": [
+                    10,
+                    18,
+                    32,
+                    47
+                ],
+                "category_id": 0
+            },
+            {
+                "character": "U",
+                "bbox": [
+                    37,
+                    18,
+                    66,
+                    47
+                ],
+                "category_id": 1
+            },
+            {
+                "character": "s",
+                "bbox": [
+                    71,
+                    26,
+                    91,
+                    47
+                ],
+                "category_id": 2
+            },
+            {
+                "character": "e",
+                "bbox": [
+                    96,
+                    26,
+                    118,
+                    47
+                ],
+                "category_id": 3
+            },
+            {
+                "character": "Q",
+                "bbox": [
+                    123,
+                    18,
+                    154,
+                    49
+                ],
+                "category_id": 4
+            },
+            {
+                "character": "4",
+                "bbox": [
+                    159,
+                    18,
+                    181,
+                    47
+                ],
+                "category_id": 5
+            },
+            {
+                "character": "B",
+                "bbox": [
+                    186,
+                    18,
+                    213,
+                    47
+                ],
+                "category_id": 6
+            },
+            {
+                "character": "k",
+                "bbox": [
+                    218,
+                    18,
+                    238,
+                    47
+                ],
+                "category_id": 7
+            },
+            {
+                "character": "H",
+                "bbox": [
+                    243,
+                    18,
+                    272,
+                    47
+                ],
+                "category_id": 8
+            },
+            {
+                "character": "B",
+                "bbox": [
+                    277,
+                    18,
+                    304,
+                    47
+                ],
+                "category_id": 9
+            }
+        ]
+    },
+    {
+        "image": "image_8.png",
+        "annotations": [
+            {
+                "character": "t",
+                "bbox": [
+                    10,
+                    19,
+                    21,
+                    47
+                ],
+                "category_id": 0
+            },
+            {
+                "character": "4",
+                "bbox": [
+                    26,
+                    18,
+                    48,
+                    47
+                ],
+                "category_id": 1
+            },
+            {
+                "character": "^",
+                "bbox": [
+                    53,
+                    9.6,
+                    60,
+                    18.6
+                ],
+                "category_id": 2
+            },
+            {
+                "character": "2",
+                "bbox": [
+                    65,
+                    26,
+                    87,
+                    47
+                ],
+                "category_id": 3
+            },
+            {
+                "character": "n",
+                "bbox": [
+                    92,
+                    18,
+                    121,
+                    47
+                ],
+                "category_id": 4
+            },
+            {
+                "character": "R",
+                "bbox": [
+                    126,
+                    18,
+                    157,
+                    47
+                ],
+                "category_id": 5
+            },
+            {
+                "character": "O",
+                "bbox": [
+                    162,
+                    18,
+                    191,
+                    47
+                ],
+                "category_id": 6
+            },
+            {
+                "character": "D",
+                "bbox": [
+                    196,
+                    18,
+                    218,
+                    47
+                ],
+                "category_id": 7
+            },
+            {
+                "character": "6",
+                "bbox": [
+                    223,
+                    26,
+                    245,
+                    55
+                ],
+                "category_id": 8
+            },
+            {
+                "character": "q",
+                "bbox": [
+                    250,
+                    18,
+                    272,
+                    47
+                ],
+                "category_id": 9
+            }
+        ]
+    },
+    {
+        "image": "image_9.png",
+        "annotations": [
+            {
+                "character": "H",
+                "bbox": [
+                    10,
+                    18,
+                    39,
+                    47
+                ],
+                "category_id": 0
+            },
+            {
+                "character": "8",
+                "bbox": [
+                    44,
+                    18,
+                    66,
+                    47
+                ],
+                "category_id": 1
+            },
+            {
+                "character": "N",
+                "bbox": [
+                    71,
+                    18,
+                    100,
+                    47
+                ],
+                "category_id": 2
+            },
+            {
+                "character": "7",
+                "bbox": [
+                    105,
+                    18,
+                    127,
+                    47
+                ],
+                "category_id": 3
+            },
+            {
+                "character": "W",
+                "bbox": [
+                    132,
+                    18,
+                    170,
+                    47
+                ],
+                "category_id": 4
+            },
+            {
+                "character": "V",
+                "bbox": [
+                    175,
+                    18,
+                    202,
+                    47
+                ],
+                "category_id": 5
+            },
+            {
+                "character": "L",
+                "bbox": [
+                    207,
+                    18,
+                    229,
+                    47
+                ],
+                "category_id": 6
+            }
+        ]
+    },
+    {
+        "image": "image_10.png",
+        "annotations": [
+            {
+                "character": "4",
+                "bbox": [
+                    10,
+                    18,
+                    32,
+                    47
+                ],
+                "category_id": 0
+            },
+            {
+                "character": "z",
+                "bbox": [
+                    37,
+                    26,
+                    57,
+                    47
+                ],
+                "category_id": 1
+            },
+            {
+                "character": "i",
+                "bbox": [
+                    62,
+                    18,
+                    71,
+                    47
+                ],
+                "category_id": 2
+            },
+            {
+                "character": "^",
+                "bbox": [
+                    76,
+                    9.6,
+                    83,
+                    18.6
+                ],
+                "category_id": 3
+            },
+            {
+                "character": "4",
+                "bbox": [
+                    88,
+                    18,
+                    110,
+                    47
+                ],
+                "category_id": 4
+            },
+            {
+                "character": "L",
+                "bbox": [
+                    115,
+                    18,
+                    142,
+                    47
+                ],
+                "category_id": 5
+            },
+            {
+                "character": "B",
+                "bbox": [
+                    147,
+                    36.0,
+                    154,
+                    45.0
+                ],
+                "category_id": 6
+            },
+            {
+                "character": "_",
+                "bbox": [
+                    159,
+                    36.0,
+                    166,
+                    45.0
+                ],
+                "category_id": 7
+            },
+            {
+                "character": "4",
+                "bbox": [
+                    171,
+                    18,
+                    202,
+                    49
+                ],
+                "category_id": 8
+            },
+            {
+                "character": "_",
+                "bbox": [
+                    207,
+                    18,
+                    229,
+                    47
+                ],
+                "category_id": 9
+            }
+        ]
+    }
+]
